@@ -5,7 +5,7 @@
   "main": "index.js",
   "types": "./typings.d.ts",
   "dependencies": {
-    "discord.js": "^12.5.2"
+    "discord.js": "discordjs/discord.js#master"
   },
   "devDependencies": {},
   "repository": {
